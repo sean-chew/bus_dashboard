@@ -1,0 +1,6 @@
+xz
+*.csv
+*.xz
+keys
+client_secret.json
+*.pyc
